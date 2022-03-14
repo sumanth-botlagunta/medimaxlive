@@ -1,0 +1,20 @@
+{
+  "name": "medimaxlive",
+  "version": "1.0.0",
+  "description": "live server for medimax",
+  "main": "index.js",
+  "scripts": {
+    "test": "node index.js"
+  },
+  "keywords": [
+    "server",
+    "medimax",
+    "node"
+  ],
+  "author": "sumanth",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.17.3",
+    "path": "^0.12.7"
+  }
+}
